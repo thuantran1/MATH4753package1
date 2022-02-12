@@ -1,0 +1,11 @@
+Package: package1
+Type: Package
+Title: Package Containing Functions from Labs
+Version: 0.1.0
+Author: Thuan Tran
+Maintainer: Thuan Tran <thuan.m.tran-1@ou.edu>
+Description: Contains various functions from previous labs for newer labs where using this package is necesssary.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
